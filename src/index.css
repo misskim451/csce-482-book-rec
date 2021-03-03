@@ -12,23 +12,4 @@ code {
     monospace;
 }
 
-.navbar{
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px 20px;
-  background-color: #61DBFB;
-  font: 'Oswald';
-  /* position: absolute;
-  width: 100%; */
-}
-
-.navbar-header {
-  background-color: #F16E10;
-  font: 'Roboto';
-}
-
-.nav{
-  color: darkkhaki;
-  font: 'Roboto';
-}
 
